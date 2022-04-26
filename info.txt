@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=HodO2eBEz_8
+
+https://github.com/BlackScratch/GD_Tg_bot_python.git
+
+bot = telebot.TeleBot облращаемся к библиотеке и потом к классу библиотеки.
+pip3 install --upgrade pyTelegramBotAPI
+
+pip3 install PyTelegramBotAPI==2.2.3
+pip3 install telebot
+        # usd_buy = soup.find('div', class_='col-md-2 col-xs-9 _right mono-num').text
+        # dollar = float(usd_buy.replace(' ₽', '').replace('\n', '').replace('\r', '').replace('\t', '').replace(',', '.'))
+        # buy_now = 73 * dollar
